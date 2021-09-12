@@ -60,8 +60,10 @@ Screenshots
 -----------
 
 ![Home Screen TalkBack](screenshots/talkback_home.png "Task list screen with TalkBack on"){width=240px}
-![Detail](screenshots/detail_dark.png "Detail screen in dark mode"){width=240px}
 ![Edit](screenshots/edit.png "Task edit screen"){width=240px}
+![Detail](screenshots/detail_dark.png "Detail screen in dark mode"){width=240px}
+
+<img src="screenshots/talkback_home.png" width="240" title="Task list screen with TalkBack on"> <img src="screenshots/detail_dark.png" width="240" title="Detail screen in dark mode"> <img src="screenshots/edit.png" width="240" title="Task edit screen">
 
 Issues
 -----------
